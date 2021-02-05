@@ -5,6 +5,7 @@ Klient:
 
 Kompilacja:
 g++ client.cpp mqlib.cpp -pthread -Wall -o client
+
 chmod +x client
 
 Argumenty:
